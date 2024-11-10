@@ -1,4 +1,4 @@
-import 'package:bookly_app/Features/splash/presentation/views/widgets/sliding_text.dart';
+import 'package:bookly_app/features/splash/presentation/views/widgets/sliding_text.dart';
 import 'package:bookly_app/core/utils/app_router.dart';
 import 'package:bookly_app/core/utils/assets.dart';
 import 'package:flutter/material.dart';

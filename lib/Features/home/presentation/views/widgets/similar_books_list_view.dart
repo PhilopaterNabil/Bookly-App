@@ -1,5 +1,5 @@
-import 'package:bookly_app/Features/home/presentation/manger/similar_books_cubit/similar_books_cubit.dart';
-import 'package:bookly_app/Features/home/presentation/views/widgets/custom_book_item.dart';
+import 'package:bookly_app/features/home/presentation/manger/similar_books_cubit/similar_books_cubit.dart';
+import 'package:bookly_app/features/home/presentation/views/widgets/custom_book_item.dart';
 import 'package:bookly_app/core/utils/app_router.dart';
 import 'package:bookly_app/core/widgets/custom_error_widget.dart';
 import 'package:bookly_app/core/widgets/custom_loading_indicator.dart';
